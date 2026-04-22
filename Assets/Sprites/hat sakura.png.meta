@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 33cc35cf45276c846b8c99b10cab3516
+guid: cc555f33a71138a49881f102aa7f55dc
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6769859608710815403
-    second: FinalChrono Energy-export_0
+      213: 7371211942894295815
+    second: hat sakura_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: FinalChrono Energy-export_0
+      name: hat sakura_0
       rect:
         serializedVersion: 2
-        x: 4
-        y: 2
-        width: 23
-        height: 26
+        x: 11
+        y: 11
+        width: 10
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 551e68bdd80ac02a0800000000000000
-      internalID: -6769859608710815403
+      spriteID: 70bd45c253ecb4660800000000000000
+      internalID: 7371211942894295815
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      FinalChrono Energy-export_0: -6769859608710815403
+      hat sakura_0: 7371211942894295815
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
