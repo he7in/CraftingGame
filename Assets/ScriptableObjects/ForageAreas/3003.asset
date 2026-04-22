@@ -10,24 +10,28 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1e829c63db504d76bd6c4ae6ed27f3c8, type: 3}
-  m_Name: Area_Lake
-  m_EditorClassIdentifier: 
-  id: foragelake
-  displayName: Lake
-  travelDays: 0.1
+  m_Name: 3003
+  m_EditorClassIdentifier: Assembly-CSharp::ForageArea
+  id: 3003
+  displayName: 3003
+  travelDays: 0.5
   workDays: 1
   roundTrip: 1
   seasonYieldMul:
   - 1
-  - 1
-  - 1
-  - 1
+  - 2
+  - 3
+  - 4
   drops:
-  - item: {fileID: 11400000, guid: 3213f67e22796ff4e9f97a3a0b32ef5f, type: 2}
+  - item: {fileID: 11400000, guid: 83dd38eeb2932894887331d8edb21942, type: 2}
     min: 1
     max: 2
-    dropChance: 0
-  - item: {fileID: 11400000, guid: f68c9d3a687f6dc4f965428a814273a9, type: 2}
+    dropChance: 0.4
+  - item: {fileID: 11400000, guid: be1a3cbb71c173846bc91f4a2a6bc373, type: 2}
     min: 1
     max: 2
-    dropChance: 0
+    dropChance: 0.2
+  - item: {fileID: 11400000, guid: 107537cca1687b0409b66b43d23604eb, type: 2}
+    min: 1
+    max: 4
+    dropChance: 0.2

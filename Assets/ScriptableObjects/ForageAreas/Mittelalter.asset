@@ -10,12 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1e829c63db504d76bd6c4ae6ed27f3c8, type: 3}
-  m_Name: Area_Forest
+  m_Name: Mittelalter
   m_EditorClassIdentifier: 
-  id: forageForest
-  displayName: Forest
+  id: forageMittelalter
+  displayName: Mittelalter
   travelDays: 0.1
-  workDays: 0.2
+  workDays: 1
   roundTrip: 1
   seasonYieldMul:
   - 2
@@ -25,17 +25,21 @@ MonoBehaviour:
   drops:
   - item: {fileID: 11400000, guid: 41a2cd23ce62072408c222d1f4cdbc82, type: 2}
     min: 1
-    max: 2
-    dropChance: 0
-  - item: {fileID: 11400000, guid: f68c9d3a687f6dc4f965428a814273a9, type: 2}
+    max: 3
+    dropChance: 0.1
+  - item: {fileID: 11400000, guid: 3694472a3b6fb5142a3313382b9f2249, type: 2}
     min: 1
-    max: 2
-    dropChance: 0
+    max: 1
+    dropChance: 0.1
   - item: {fileID: 11400000, guid: 3213f67e22796ff4e9f97a3a0b32ef5f, type: 2}
     min: 1
-    max: 2
-    dropChance: 0
-  - item: {fileID: 11400000, guid: b1fe30c6ea8a82641bcc481c2e11c059, type: 2}
+    max: 5
+    dropChance: 0.56
+  - item: {fileID: 11400000, guid: 6dd343b0011e96148955bdda69e4f67d, type: 2}
+    min: 1
+    max: 4
+    dropChance: 0.44
+  - item: {fileID: 11400000, guid: a584615c5b089b043b44d8ad82217902, type: 2}
     min: 1
     max: 2
-    dropChance: 0
+    dropChance: 0.1

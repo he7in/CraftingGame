@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e829c63db504d76bd6c4ae6ed27f3c8, type: 3}
+  m_Name: 20. Jahrhundert
+  m_EditorClassIdentifier: Assembly-CSharp::ForageArea
+  id: 20century
+  displayName: 20. Jahrhundert
+  travelDays: 0.5
+  workDays: 1
+  roundTrip: 1
+  seasonYieldMul:
+  - 1
+  - 2
+  - 3
+  - 4
+  drops:
+  - item: {fileID: 11400000, guid: d65b812b774ac754eb8c643702006f05, type: 2}
+    min: 1
+    max: 5
+    dropChance: 0.4
+  - item: {fileID: 11400000, guid: 6add4df998155bc43921439deafd9b30, type: 2}
+    min: 1
+    max: 3
+    dropChance: 0.3
+  - item: {fileID: 11400000, guid: f68c9d3a687f6dc4f965428a814273a9, type: 2}
+    min: 1
+    max: 2
+    dropChance: 0.2
+  - item: {fileID: 11400000, guid: 17518888efa8af44da8f9f5c0f3d7455, type: 2}
+    min: 1
+    max: 3
+    dropChance: 0.3
