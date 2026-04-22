@@ -31,21 +31,21 @@ MonoBehaviour:
   idleThoughtIntervalMinSeconds: 17
   idleThoughtIntervalMaxSeconds: 35
   happyIdleThoughts:
-  - Sun on my face, zero emergencies.
-  - Stretch break achieved. Productivity +1.
-  - Humming the victory theme just in case.
-  - Feels like a good day to exist.
-  - Coffee level optimal; morale stable.
-  - Admiring our gear like it's art.
-  - Plotting greatness, starting with snacks.
+  - Times feels softer when I do not rush it
+  - Nostaligia is caling every second
+  - Every Era has its own kind of happiness
+  - There is always something hidden
+  - Found some new music elements, the music here is incredible
+  - The smallest finds often deel the riches
+  - Every moment has value if you know how to frame it
   clumsyIdleThoughts:
-  - Tripped over my own shadow while standing still.
-  - If anyone asks, that noise was a feature.
-  - I swear the floor tilted first.
-  - Dropped nothing. Somehow still made a sound.
-  - "Practicing my stumble\u2014nailed it."
-  - Thought about moving, nearly fell anyway.
-  - "Hands in pockets: danger contained\u2026 probably."
+  - I think I am in the wrong century again
+  - Was I here before or am I just confused
+  - I missed my moment... it ran faster
+  - I found something... forget it it is nothing special
+  - This might be valible or just shiny
+  - I forgot what I was searching for
+  - It sounded more convincing in my head
   happyTravelThoughts:
   - Times feels softer when I do not rush it
   - Nostaligia is caling every second
@@ -73,7 +73,7 @@ MonoBehaviour:
   clumsyTravelThoughts:
   - I think I am in the wrong century again
   - Was I here before or am I just confused
-  - Imissed my moment... it ran faster
+  - I missed my moment... it ran faster
   clumsyForageThoughts:
   - I found something... forget it it is nothing special
   - This might be valible or just shiny
