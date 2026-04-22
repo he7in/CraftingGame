@@ -17,35 +17,35 @@ MonoBehaviour:
   pattern:
   - item: {fileID: 0}
     amount: 0
+  - item: {fileID: 11400000, guid: d65b812b774ac754eb8c643702006f05, type: 2}
+    amount: 1
+  - item: {fileID: 11400000, guid: d65b812b774ac754eb8c643702006f05, type: 2}
+    amount: 1
   - item: {fileID: 0}
     amount: 0
   - item: {fileID: 0}
     amount: 0
+  - item: {fileID: 11400000, guid: d65b812b774ac754eb8c643702006f05, type: 2}
+    amount: 1
+  - item: {fileID: 11400000, guid: d65b812b774ac754eb8c643702006f05, type: 2}
+    amount: 1
   - item: {fileID: 0}
     amount: 0
   - item: {fileID: 0}
     amount: 0
+  - item: {fileID: 11400000, guid: f68c9d3a687f6dc4f965428a814273a9, type: 2}
+    amount: 1
+  - item: {fileID: 11400000, guid: 6dc621f1d67613347bfa1ec28c4f7dd3, type: 2}
+    amount: 1
   - item: {fileID: 0}
     amount: 0
   - item: {fileID: 0}
     amount: 0
+  - item: {fileID: 11400000, guid: 6dd343b0011e96148955bdda69e4f67d, type: 2}
+    amount: 1
+  - item: {fileID: 11400000, guid: 6dd343b0011e96148955bdda69e4f67d, type: 2}
+    amount: 1
   - item: {fileID: 0}
     amount: 0
-  - item: {fileID: 0}
-    amount: 0
-  - item: {fileID: 0}
-    amount: 0
-  - item: {fileID: 0}
-    amount: 0
-  - item: {fileID: 0}
-    amount: 0
-  - item: {fileID: 0}
-    amount: 0
-  - item: {fileID: 0}
-    amount: 0
-  - item: {fileID: 0}
-    amount: 0
-  - item: {fileID: 0}
-    amount: 0
-  outputItem: {fileID: 0}
+  outputItem: {fileID: 11400000, guid: 107537cca1687b0409b66b43d23604eb, type: 2}
   outputAmount: 1

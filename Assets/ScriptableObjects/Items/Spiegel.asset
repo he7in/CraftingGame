@@ -10,14 +10,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 30344452f45122149be7ab00dbee6427, type: 3}
-  m_Name: Blau
-  m_EditorClassIdentifier: 
-  Id: 2
-  DisplayName: Blau
-  Icon: {fileID: 21300000, guid: 096ce8243287f9341aa62941d0d6baa3, type: 3}
-  MaxStack: 99
+  m_Name: Spiegel
+  m_EditorClassIdentifier: Assembly-CSharp::Item
+  Id: spiegel
+  DisplayName: Spiegel
+  Icon: {fileID: 5210886301739966022, guid: 4901ac8e465b95741be4dc4c6c68a07b, type: 3}
+  MaxStack: 1
   producer: {fileID: 0}
-  tier: 1
+  tier: 0
   equippable: 0
   equipmentBonuses:
     travelSpeed: 0
@@ -36,5 +36,5 @@ MonoBehaviour:
   researchLuckDescription: Research luck
   equipmentBonusNote: Enter fractional bonuses (e.g., 0.15 = +15%, 1.0 = +100%).
     Speed bonuses multiply duration denominators; luck bonuses multiply chances.
-  price: 15
-  description: "Ein gef\xE4rbtes Item."
+  price: 100
+  description: Spiegel gebaut mit alten Cds und Kupfer

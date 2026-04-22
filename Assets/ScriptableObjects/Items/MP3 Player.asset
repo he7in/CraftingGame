@@ -10,14 +10,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 30344452f45122149be7ab00dbee6427, type: 3}
-  m_Name: Weiss
-  m_EditorClassIdentifier: 
-  Id: weiss
-  DisplayName: "Wei\xDF"
-  Icon: {fileID: 21300000, guid: 4579304ceb788b640b9e0deab31061c9, type: 3}
-  MaxStack: 99
+  m_Name: MP3 Player
+  m_EditorClassIdentifier: Assembly-CSharp::Item
+  Id: mp3
+  DisplayName: MP3 Player
+  Icon: {fileID: 3104710292405073914, guid: 002b3aac6bae84d49b9bcd81bc0f44a4, type: 3}
+  MaxStack: 10
   producer: {fileID: 0}
-  tier: 3
+  tier: 0
   equippable: 0
   equipmentBonuses:
     travelSpeed: 0
@@ -36,5 +36,5 @@ MonoBehaviour:
   researchLuckDescription: Research luck
   equipmentBonusNote: Enter fractional bonuses (e.g., 0.15 = +15%, 1.0 = +100%).
     Speed bonuses multiply duration denominators; luck bonuses multiply chances.
-  price: 300
-  description: "Ein gef\xE4rbtes Item."
+  price: 100
+  description: "MP\xA7 Player aus 1998 "

@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30344452f45122149be7ab00dbee6427, type: 3}
+  m_Name: "mag. Mp3H\xF6rbuch"
+  m_EditorClassIdentifier: Assembly-CSharp::Item
+  Id: magmp3
+  DisplayName: Magischer MP3 Player
+  Icon: {fileID: 8804179438762423075, guid: 0e2296d1f7232f242babce7a8b0f28f9, type: 3}
+  MaxStack: 5
+  producer: {fileID: 0}
+  tier: 0
+  equippable: 0
+  equipmentBonuses:
+    travelSpeed: 0
+    craftingSpeed: 0
+    researchSpeed: 0
+    forageSpeed: 0
+    forageLuck: 0
+    tavernLuck: 0
+    researchLuck: 0
+  travelSpeedDescription: Travel speed
+  craftingSpeedDescription: Crafting speed
+  researchSpeedDescription: Research speed
+  forageSpeedDescription: Forage speed
+  forageLuckDescription: Forage luck
+  tavernLuckDescription: Tavern luck
+  researchLuckDescription: Research luck
+  equipmentBonusNote: Enter fractional bonuses (e.g., 0.15 = +15%, 1.0 = +100%).
+    Speed bonuses multiply duration denominators; luck bonuses multiply chances.
+  price: 898
+  description: "Magisches MP3Player H\xF6rbuch mit Inhalten von alten \xC4gyptischen
+    Schriftrollen und magischen B\xFCchern"

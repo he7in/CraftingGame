@@ -10,11 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 30344452f45122149be7ab00dbee6427, type: 3}
-  m_Name: Lila
+  m_Name: Stahlplatte
   m_EditorClassIdentifier: 
-  Id: 3
-  DisplayName: Lila
-  Icon: {fileID: 21300000, guid: fd3321e3383b0b846bfe44c8782ff70c, type: 3}
+  Id: stahlplat
+  DisplayName: Stahlplatte
+  Icon: {fileID: 5210886301739966022, guid: 4901ac8e465b95741be4dc4c6c68a07b, type: 3}
   MaxStack: 99
   producer: {fileID: 0}
   tier: 2
@@ -36,5 +36,5 @@ MonoBehaviour:
   researchLuckDescription: Research luck
   equipmentBonusNote: Enter fractional bonuses (e.g., 0.15 = +15%, 1.0 = +100%).
     Speed bonuses multiply duration denominators; luck bonuses multiply chances.
-  price: 30
-  description: "Ein gef\xE4rbtes Item."
+  price: 70
+  description: Stahlplatte aus dem 19. Jahrhundert

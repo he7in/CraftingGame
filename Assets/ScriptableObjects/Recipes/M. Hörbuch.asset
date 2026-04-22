@@ -15,37 +15,37 @@ MonoBehaviour:
   displayName: "Magisches H\xF6rbuch"
   tier: 0
   pattern:
-  - item: {fileID: 11400000, guid: 6dc621f1d67613347bfa1ec28c4f7dd3, type: 2}
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 11400000, guid: 17518888efa8af44da8f9f5c0f3d7455, type: 2}
     amount: 1
-  - item: {fileID: 11400000, guid: 98233fa7d0cf83a478dbf3820360eaab, type: 2}
-    amount: 1
-  - item: {fileID: 11400000, guid: 6dd343b0011e96148955bdda69e4f67d, type: 2}
+  - item: {fileID: 11400000, guid: 83dd38eeb2932894887331d8edb21942, type: 2}
     amount: 1
   - item: {fileID: 0}
     amount: 0
   - item: {fileID: 0}
     amount: 0
+  - item: {fileID: 11400000, guid: 3694472a3b6fb5142a3313382b9f2249, type: 2}
+    amount: 1
+  - item: {fileID: 11400000, guid: a584615c5b089b043b44d8ad82217902, type: 2}
+    amount: 1
   - item: {fileID: 0}
     amount: 0
   - item: {fileID: 0}
     amount: 0
+  - item: {fileID: 11400000, guid: 3694472a3b6fb5142a3313382b9f2249, type: 2}
+    amount: 1
+  - item: {fileID: 11400000, guid: a584615c5b089b043b44d8ad82217902, type: 2}
+    amount: 1
   - item: {fileID: 0}
     amount: 0
   - item: {fileID: 0}
     amount: 0
+  - item: {fileID: 11400000, guid: 3694472a3b6fb5142a3313382b9f2249, type: 2}
+    amount: 1
+  - item: {fileID: 11400000, guid: a584615c5b089b043b44d8ad82217902, type: 2}
+    amount: 1
   - item: {fileID: 0}
     amount: 0
-  - item: {fileID: 0}
-    amount: 0
-  - item: {fileID: 0}
-    amount: 0
-  - item: {fileID: 0}
-    amount: 0
-  - item: {fileID: 0}
-    amount: 0
-  - item: {fileID: 0}
-    amount: 0
-  - item: {fileID: 0}
-    amount: 0
-  outputItem: {fileID: 11400000, guid: 83dd38eeb2932894887331d8edb21942, type: 2}
-  outputAmount: 5
+  outputItem: {fileID: 11400000, guid: eb144847532507345bfe71ca72c99990, type: 2}
+  outputAmount: 1

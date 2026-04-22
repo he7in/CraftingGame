@@ -15,21 +15,27 @@ MonoBehaviour:
   displayName: MEGA Mixtape
   tier: 1
   pattern:
-  - item: {fileID: 11400000, guid: 83dd38eeb2932894887331d8edb21942, type: 2}
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 0}
+    amount: 0
+  - item: {fileID: 11400000, guid: f68c9d3a687f6dc4f965428a814273a9, type: 2}
+    amount: 1
+  - item: {fileID: 11400000, guid: 6add4df998155bc43921439deafd9b30, type: 2}
     amount: 1
   - item: {fileID: 11400000, guid: 83dd38eeb2932894887331d8edb21942, type: 2}
     amount: 1
-  - item: {fileID: 11400000, guid: 83dd38eeb2932894887331d8edb21942, type: 2}
-    amount: 1
-  - item: {fileID: 11400000, guid: 83dd38eeb2932894887331d8edb21942, type: 2}
-    amount: 1
-  - item: {fileID: 11400000, guid: 83dd38eeb2932894887331d8edb21942, type: 2}
-    amount: 1
   - item: {fileID: 0}
     amount: 0
-  - item: {fileID: 0}
-    amount: 0
-  - item: {fileID: 11400000, guid: 83dd38eeb2932894887331d8edb21942, type: 2}
+  - item: {fileID: 11400000, guid: d65b812b774ac754eb8c643702006f05, type: 2}
+    amount: 1
+  - item: {fileID: 11400000, guid: 17518888efa8af44da8f9f5c0f3d7455, type: 2}
     amount: 1
   - item: {fileID: 0}
     amount: 0
@@ -41,11 +47,5 @@ MonoBehaviour:
     amount: 0
   - item: {fileID: 0}
     amount: 0
-  - item: {fileID: 0}
-    amount: 0
-  - item: {fileID: 0}
-    amount: 0
-  - item: {fileID: 0}
-    amount: 0
-  outputItem: {fileID: 11400000, guid: b1fe30c6ea8a82641bcc481c2e11c059, type: 2}
+  outputItem: {fileID: 11400000, guid: 0a1c149c318196d4195c06f4c19919e7, type: 2}
   outputAmount: 1
