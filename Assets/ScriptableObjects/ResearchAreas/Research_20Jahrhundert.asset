@@ -10,15 +10,15 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 09ce18267a5c46c58c36fbab0d332794, type: 3}
-  m_Name: Research_Forest
-  m_EditorClassIdentifier: 
-  id: researchforest
-  displayName: Forest
-  days: 0.5
+  m_Name: Research_20Jahrhundert
+  m_EditorClassIdentifier: Assembly-CSharp::ResearchDomain
+  id: research20Jahrhundert
+  displayName: 20. Jahrhundert
+  days: 1.5
   possibleRecipes:
+  - {fileID: 11400000, guid: 9b1ba513109b4ca4b99a32794ded0218, type: 2}
   - {fileID: 11400000, guid: 91f46ddd59597624ba6bc809a6c00c7b, type: 2}
-  - {fileID: 11400000, guid: 762c9c745c4b9a744bc8b39a2c66de1b, type: 2}
-  recipeChance: 0.923
-  possibleSpiritGenerators:
-  - {fileID: 11400000, guid: 9e3a59137428ae94a8c0717215c3dc46, type: 2}
-  spiritGenChance: 1
+  - {fileID: 11400000, guid: e9dd194127a76af4282db23dbb7dca09, type: 2}
+  recipeChance: 0.753
+  possibleSpiritGenerators: []
+  spiritGenChance: 0.838
