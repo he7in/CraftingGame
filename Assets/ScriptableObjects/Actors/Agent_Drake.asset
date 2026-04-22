@@ -10,35 +10,27 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d75e06c2391548c5ab5d457b3bb03cd2, type: 3}
-  m_Name: Agent_Aaron
-  m_EditorClassIdentifier: 
-  id: agentAaron
-  displayName: Aaron
+  m_Name: Agent_Drake
+  m_EditorClassIdentifier: Assembly-CSharp::ActorDefinition
+  id: agentDrake
+  displayName: Drake
   role: {fileID: 11400000, guid: 2e635c56c4f83e4439c9181453ab1e17, type: 2}
   portraitOverride: {fileID: 0}
   spiritPerDay: 1
   hireGoldCost: 0
-  happiness: 0.096
-  clumsiness: 0.934
+  happiness: 0.5
+  clumsiness: 0.2
   happinessThoughts:
-  - Sun's out, vibes out! (probably should work too.)
-  - Today's a good day to not set anything on fire.
-  - I could high-five a dragon right now.
+  - 
+  - 
+  - 
   clumsyThoughts:
-  - Oops. That was majestic in my head.
-  - If anyone asks, the floor attacked first.
-  - Graceful trip executed perfectly.
+  - 
+  - 
+  - 
   idleThoughtIntervalMinSeconds: 17
   idleThoughtIntervalMaxSeconds: 35
   happyIdleThoughts:
-  - I trust where I end up
-  - Every stop feels worth it
-  - I like the quiet thrill of finding things
-  - Even simple things feel special in my hands
-  - Curiosity leads me well
-  - Even small shifts in time feel exciting
-  - Every conversation is a chance to connect
-  clumsyIdleThoughts:
   - The timeline feels slightly bent again
   - Everything knows its path..except me
   - I stepped forward and lost my direction
@@ -46,14 +38,22 @@ MonoBehaviour:
   - Everything seems like it could matter, probably does not
   - I came back with less than I left for
   - "Hands in pockets: danger contained\u2026 probably."
+  clumsyIdleThoughts:
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
   happyTravelThoughts:
-  - I trust where I end up
-  - Every stop feels worth it
-  - Even small shifts in time feel exciting
+  - The timeline feels slightly bent again
+  - Everything knows its path..except me
+  - I stepped forward and lost my direction
   happyForageThoughts:
-  - Even simple things feel special in my hands
-  - Curiosity leads me well
-  - I like the quiet thrill of finding things
+  - I dropped the useful thing and kept this
+  - Everything seems like it could matter, probably does not
+  - I came back with less than I left for
   happySellThoughts:
   - My ideas land better than I think
   - Every conversation is a chance to connect
@@ -69,19 +69,19 @@ MonoBehaviour:
   happyTavernThoughts:
   - I feel at ease right now
   - Stories get better as they are told
-  - I like listening more than I speak
+  - I like listening more than I speakI like listening more than I speak
   clumsyTravelThoughts:
   - The timeline feels slightly bent again
-  - Everything knows its path..except me
-  - I stepped forward and lost my direction
-  clumsyForageThoughts:
-  - I dropped the useful thing and kept this
   - Everything seems like it could matter, probably does not
   - I came back with less than I left for
-  clumsySellThoughts:
+  clumsyForageThoughts:
   - Let us pretend that landed correctly
   - I am selling something...at least I hope I do
   - I thing I just described the wrong thing
+  clumsySellThoughts:
+  - The explanation keeps slipping out of focus
+  - I understand less the longer I look
+  - I lost the conclusion but kept the details
   clumsyResearchThoughts:
   - The explanation keeps slipping out of focus
   - I understand less the longer I look
@@ -92,5 +92,5 @@ MonoBehaviour:
   - I will stop before it gets worst
   clumsyTavernThoughts:
   - Everyone seems in sync except me
-  - I will just stay quiet and hope that works
+  - This drink tastes like nothing...i think they saw me making a weird face
   - This drink tastes like nothing...i think they saw me making a weird face
