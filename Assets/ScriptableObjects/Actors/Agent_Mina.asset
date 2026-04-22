@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d75e06c2391548c5ab5d457b3bb03cd2, type: 3}
+  m_Name: Agent_Mina
+  m_EditorClassIdentifier: 
+  id: agentmina
+  displayName: Mina
+  role: {fileID: 11400000, guid: 4b1796ef023a6a24085785542b9ea38d, type: 2}
+  portraitOverride: {fileID: 21300000, guid: 5663917f2c6b57548a5516484f83d177, type: 3}
+  spiritPerDay: 3
+  hireGoldCost: 100
+  happiness: 0.5
+  clumsiness: 0.2
+  happinessThoughts:
+  - Sun's out, vibes out! (probably should work too.)
+  - Today's a good day to not set anything on fire.
+  - I could high-five a dragon right now.
+  clumsyThoughts:
+  - Oops. That was majestic in my head.
+  - If anyone asks, the floor attacked first.
+  - Graceful trip executed perfectly.
+  idleThoughtIntervalMinSeconds: 17
+  idleThoughtIntervalMaxSeconds: 35
+  happyIdleThoughts:
+  - Sun on my face, zero emergencies.
+  - Stretch break achieved. Productivity +1.
+  - Humming the victory theme just in case.
+  - Feels like a good day to exist.
+  - Coffee level optimal; morale stable.
+  - Admiring our gear like it's art.
+  - Plotting greatness, starting with snacks.
+  clumsyIdleThoughts:
+  - Tripped over my own shadow while standing still.
+  - If anyone asks, that noise was a feature.
+  - I swear the floor tilted first.
+  - Dropped nothing. Somehow still made a sound.
+  - "Practicing my stumble\u2014nailed it."
+  - Thought about moving, nearly fell anyway.
+  - "Hands in pockets: danger contained\u2026 probably."
+  happyTravelThoughts:
+  - Time feels like something I can explore
+  - Every era has something beautiful to notice
+  - Anemoia is something I never thought Icould feel
+  happyForageThoughts:
+  - I always find something interesting when I look closely
+  - There is beauty in unexpected findings
+  - I enjoy not knowing what I will pick up next
+  happySellThoughts:
+  - I love turning ideas into something others can feel
+  - There is joy in sharing something useful
+  - I can make things sound alive
+  happyResearchThoughts:
+  - I like how answers slowly reveal themselves
+  - Every question opens a new door
+  - I enjoy following curiosity wherever it goes
+  happyCraftThoughts:
+  - I like watching how something takes takes shape from nothing
+  - Creating feels steady and satisfying
+  - I enjoy fixing things until they feel fine
+  happyTavernThoughts:
+  - I enjoy the warmth of shared stories
+  - Laughter feels easy here
+  - Every voice adds somethng to the room
+  clumsyTravelThoughts:
+  - I think I arrived...somewhere close to right
+  - I was just here... or somewhere similar
+  - I might be eral. Or late. Hard to tell
+  clumsyForageThoughts:
+  - I picked this up before knowing why
+  - I found something irrelevant again
+  - I might have already checked here... maybe
+  clumsySellThoughts:
+  - I almost sounded convincing there
+  - Wait, what am I offering again
+  - 'Note: don''t juggle merchandise.'
+  clumsyResearchThoughts:
+  - I followed the logic and got lost immediatly
+  - The answer created more confusion than before
+  - I think i proved something... or disproved it
+  clumsyCraftThoughts:
+  - It works if I do not let it go
+  - It holds together loosely, emotionally
+  - This part is attached in a hopeful way
+  clumsyTavernThoughts:
+  - I thing I agreed to something I did not here
+  - I laughed a second to late...now I look suspicious
+  - I forgot my point mid-sentence again

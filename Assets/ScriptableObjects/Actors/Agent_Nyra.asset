@@ -10,13 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d75e06c2391548c5ab5d457b3bb03cd2, type: 3}
-  m_Name: Actor_Harry
+  m_Name: Agent_Nyra
   m_EditorClassIdentifier: 
-  id: harry
-  displayName: Harry Potter
+  id: agentnyra
+  displayName: Nyra
   role: {fileID: 11400000, guid: 4b1796ef023a6a24085785542b9ea38d, type: 2}
-  portraitOverride: {fileID: 21300000, guid: 5663917f2c6b57548a5516484f83d177, type: 3}
-  spiritPerDay: 3
+  portraitOverride: {fileID: 0}
+  spiritPerDay: 5
   hireGoldCost: 100
   happiness: 0.5
   clumsiness: 0.2
@@ -28,6 +28,8 @@ MonoBehaviour:
   - Oops. That was majestic in my head.
   - If anyone asks, the floor attacked first.
   - Graceful trip executed perfectly.
+  idleThoughtIntervalMinSeconds: 17
+  idleThoughtIntervalMaxSeconds: 35
   happyIdleThoughts:
   - Sun on my face, zero emergencies.
   - Stretch break achieved. Productivity +1.
@@ -45,50 +47,50 @@ MonoBehaviour:
   - Thought about moving, nearly fell anyway.
   - "Hands in pockets: danger contained\u2026 probably."
   happyTravelThoughts:
-  - Road snacks packed, morale at 110%.
-  - Maps, check. Dramatic cloak swirl, check.
-  - Adventure time; I call window seat!
+  - Times feels softer when I do not rush it
+  - Nostaligia is caling every second
+  - Every Era has its own kind of happiness
   happyForageThoughts:
-  - Found berries; probably edible. Mostly.
-  - Big pockets were a great investment.
-  - Everything smells like pine and potential stew.
+  - There is always something hidden
+  - Found some new music elements, the music here is incredible
+  - The smallest finds often deel the riches
   happySellThoughts:
-  - "Step right up\u2014today's discounts are mostly real."
-  - I love the sound of clinking coins in the morning.
+  - People do not buy time, they buy meaning
+  - Every moment has value if you know how to frame it
   - Customer smiled; I might frame that memory.
   happyResearchThoughts:
-  - Books, tea, and zero explosions so far.
-  - Eureka! Or at least 'hm, interesting.'
+  - Books, Music, and zero trouble so far.
+  - Patterns whisper before they speak
   - Writing notes like my pen owes me gold.
   happyCraftThoughts:
   - Nailed it. And I still have all ten fingers.
-  - The glue only stuck to the project this time!
+  - Good things take patience to become great
   - 'Crafting playlist: hammers and harmonies.'
   happyTavernThoughts:
-  - Ale tastes better when you earned it.
-  - I might start a rumor about how great we are.
-  - Cheers to quests completed and chairs unbroken.
+  - Life tastes better when you earned it.
+  - A shared drink shortens any distance
+  - The best truths slip out between laughs
   clumsyTravelThoughts:
-  - Tripped over a shadow. Classic.
-  - Packed everything except balance.
-  - The road moved first, I promise.
+  - I think I am in the wrong century again
+  - Was I here before or am I just confused
+  - Imissed my moment... it ran faster
   clumsyForageThoughts:
-  - Accidentally introduced myself to a thorn bush.
-  - Dropped the basket, found gravity still working.
-  - Is this mushroom friendly? It bit me.
+  - I found something... forget it it is nothing special
+  - This might be valible or just shiny
+  - I forgot what I was searching for
   clumsySellThoughts:
-  - "Spilled samples\u2014they're half off now."
-  - I practiced my pitch; forgot the product.
-  - 'Note: don''t juggle merchandise.'
+  - It sounded more convincing in my head
+  - Wait, what was the benefit againg?
+  - This has vaalue, I just can not locate it
   clumsyResearchThoughts:
-  - Ink everywhere; at least it's on theme.
-  - I sneezed on the scroll. Knowledge absorbed?
-  - Tripped over a footnote literally.
+  - This almost connects...almost
+  - I checked twice and got two different answers
+  - The deeper I go, the lass I know
   clumsyCraftThoughts:
-  - Built a masterpiece of splinters.
-  - Glue + sleeve = new fashion line.
+  - It holds together if I do not touch it
+  - I improved it...in a new direction
   - Hammered my thumb, which is now also flat.
   clumsyTavernThoughts:
-  - I swear the stool attacked me first.
-  - "Spilled ale\u2014called it floor seasoning."
-  - Dropped the song when the chorus came.
+  - I swear the painting just smiled at me
+  - Some spilled their drink, it was not me...stop asking
+  - I forgot my point but kept talking

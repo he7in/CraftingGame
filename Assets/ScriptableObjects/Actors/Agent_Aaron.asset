@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d75e06c2391548c5ab5d457b3bb03cd2, type: 3}
-  m_Name: Actor_Sam
+  m_Name: Agent_Aaron
   m_EditorClassIdentifier: 
-  id: sam
-  displayName: Sam
+  id: agentAaron
+  displayName: Aaron
   role: {fileID: 11400000, guid: 2e635c56c4f83e4439c9181453ab1e17, type: 2}
   portraitOverride: {fileID: 0}
   spiritPerDay: 1
@@ -28,6 +28,8 @@ MonoBehaviour:
   - Oops. That was majestic in my head.
   - If anyone asks, the floor attacked first.
   - Graceful trip executed perfectly.
+  idleThoughtIntervalMinSeconds: 17
+  idleThoughtIntervalMaxSeconds: 35
   happyIdleThoughts:
   - Sun on my face, zero emergencies.
   - Stretch break achieved. Productivity +1.
@@ -45,50 +47,50 @@ MonoBehaviour:
   - Thought about moving, nearly fell anyway.
   - "Hands in pockets: danger contained\u2026 probably."
   happyTravelThoughts:
-  - Road snacks packed, morale at 110%.
-  - Maps, check. Dramatic cloak swirl, check.
-  - Adventure time; I call window seat!
+  - I trust where I end up
+  - Every stop feels worth it
+  - Even small shifts in time feel exciting
   happyForageThoughts:
-  - Found berries; probably edible. Mostly.
-  - Big pockets were a great investment.
-  - Everything smells like pine and potential stew.
+  - Even simple things feel special in my hands
+  - Curiosity leads me well
+  - I like the quiet thrill of finding things
   happySellThoughts:
-  - "Step right up\u2014today's discounts are mostly real."
-  - I love the sound of clinking coins in the morning.
-  - Customer smiled; I might frame that memory.
+  - My ideas land better than I think
+  - Every conversation is a chance to connect
+  - Confidence grows while I speak
   happyResearchThoughts:
-  - Books, tea, and zero explosions so far.
-  - Eureka! Or at least 'hm, interesting.'
-  - Writing notes like my pen owes me gold.
+  - I trust the process of understanding
+  - Even confusion teaches something
+  - Learning feels like solving a calm puzzle
   happyCraftThoughts:
-  - Nailed it. And I still have all ten fingers.
-  - The glue only stuck to the project this time!
-  - 'Crafting playlist: hammers and harmonies.'
+  - I feel proud of what slowly forms
+  - My hands know more than I expect
+  - Everything improves with patience
   happyTavernThoughts:
-  - Ale tastes better when you earned it.
-  - I might start a rumor about how great we are.
-  - Cheers to quests completed and chairs unbroken.
+  - I feel at ease right now
+  - Stories get better as they are told
+  - I like listening more than I speak
   clumsyTravelThoughts:
-  - Tripped over a shadow. Classic.
-  - Packed everything except balance.
-  - The road moved first, I promise.
+  - The timeline feels slightly bent again
+  - Everything knows its path..except me
+  - I stepped forward and lost my direction
   clumsyForageThoughts:
-  - Accidentally introduced myself to a thorn bush.
-  - Dropped the basket, found gravity still working.
-  - Is this mushroom friendly? It bit me.
+  - I dropped the useful thing and kept this
+  - Everything seems like it could matter, probably does not
+  - I came back with less than I left for
   clumsySellThoughts:
-  - "Spilled samples\u2014they're half off now."
-  - I practiced my pitch; forgot the product.
-  - 'Note: don''t juggle merchandise.'
+  - Let us pretend that landed correctly
+  - I am selling something...at least I hope I do
+  - I thing I just described the wrong thing
   clumsyResearchThoughts:
-  - Ink everywhere; at least it's on theme.
-  - I sneezed on the scroll. Knowledge absorbed?
-  - Tripped over a footnote literally.
+  - The explanation keeps slipping out of focus
+  - I understand less the longer I look
+  - I lost the conclusion but kept the details
   clumsyCraftThoughts:
-  - Built a masterpiece of splinters.
-  - Glue + sleeve = new fashion line.
-  - Hammered my thumb, which is now also flat.
+  - It is not broken, just creatively unsteable
+  - This is slightly different from the plan
+  - I will stop before it gets worst
   clumsyTavernThoughts:
-  - I swear the stool attacked me first.
-  - "Spilled ale\u2014called it floor seasoning."
-  - Dropped the song when the chorus came.
+  - Everyone seems in sync except me
+  - I will just stay quiet and hope that works
+  - This drink tastes like nothing...i think they saw me making a weird face
